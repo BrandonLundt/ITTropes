@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to IT Tropes
 
-You can use the [editor on GitHub](https://github.com/BrandonLundt/ITTropes/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This was heavily inspired by my life in IT and the website TV Tropes.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BrandonLundt/ITTropes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## The Henderson
+ Definition: A single user whom while following all business policy is able to be the exception to every IT system in the organization. 
+ 
+ Example: John, in accounting, wants to help the company as much as possible. So John has started helping out on second shift on the manufacturing line for building two. John just Hendersoned.
